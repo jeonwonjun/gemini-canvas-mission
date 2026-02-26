@@ -90,7 +90,7 @@ Gemini AI를 통해:
 행성이의 미션 탈출
 
 ### 배포 링크
-https://gemini.google.com/share/40d2df509bca
+https://gemini.google.com/share/48c6763fea33
 
 ### 이 앱을 만든 이유
 행성이가 미션을 해결하는 과정을 탈출 게임을 통해 몰입감 있는 미니 어드벤처 경험을 제공하기 위해 만들었습니다.
